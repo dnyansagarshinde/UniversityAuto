@@ -1,1 +1,1 @@
-web: gunicorn UniversityAuto.wsgi
+web: gunicorn OnlineSchoolMgmt.wsgi
