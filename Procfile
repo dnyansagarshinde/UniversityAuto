@@ -1,1 +1,1 @@
-web: gunicorn OnlineSchoolMgmt.wsgi
+web: gunicorn OnlineSchoolMgmt.wsgi --log-file -
